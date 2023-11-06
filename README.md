@@ -4,7 +4,7 @@ In this tutorial ([Open in Youtube](https://youtu.be/wSMfn6etuus)), I'm going to
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 # AsmrProg
 
